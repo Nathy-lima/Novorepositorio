@@ -7,7 +7,7 @@ Repositorio para armazenarresumos sobre Git e GitHub do curso Versionamento de C
 -[Documentaçao GitHub](https://docs.github.com/pt)
 
 ##📚 Resumos das Aulas
-|Aulas | Resumo |
+|Aulas | Resumos |
 |------|---------|
 |Gravando Alteraçoes em repositorio local|[Resumos]
 ()|
