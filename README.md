@@ -10,6 +10,8 @@ Repositorio para armazenarresumos sobre Git e GitHub do curso Versionamento de C
 |Aulas | Resumos |
 |------|---------|
 |Gravando Alteraçoes em repositorio local|[Resumos]
+Aula 01-
+Aula 02-
 ()|
 
 ```
